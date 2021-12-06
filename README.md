@@ -1,2 +1,2 @@
 # 轩辕 (Xuan Yuan)
-![轩辕](https://github.com/xyznlp/XuanYuan/logo.png)
+![轩辕](https://github.com/xyznlp/XuanYuan/blob/master/logo.png)
